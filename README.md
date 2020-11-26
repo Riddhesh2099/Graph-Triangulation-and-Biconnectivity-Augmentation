@@ -1,2 +1,2 @@
 # Graph-Triangulation
-Personal work on graph triangulation
+Research project work on graph triangulation
